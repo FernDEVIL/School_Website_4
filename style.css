@@ -1,0 +1,71 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#marqueeStyle {
+    background-color: red;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+body {
+    text-align: center;
+}
+
+.achievement_head span {
+    margin-right: ;
+}
+
+.achievement_head {
+    width: 100%;
+    display: inline-block;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-bottom: 15px;
+    padding: 6px 22px;
+}
+
+.achievement_head i {
+    float: right;
+}
+
+.achievement_head span {
+    float: left;
+}
+
+.news_li {
+    margin-top: 13px;
+}
+
+.news_li h3 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.news img {
+    border-radius: 25px;
+}
+
+.news_li p {
+    margin-top: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img-modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
